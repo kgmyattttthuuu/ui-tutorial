@@ -25,3 +25,18 @@
 .green{
     background-color: teal;
 }
+
+.button{
+    background-color: teal;
+    color: #fff;
+    margin: 3rem;
+    padding-inline: 1.5em;
+    padding-block: 0.5rem;
+    cursor:pointer;
+
+}
+
+
+.button:hover{
+    background-color: tomato;
+}

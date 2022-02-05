@@ -2,6 +2,26 @@
     color: rebeccapurple;
     background-color: red;
     font-weight: lighter;
-   
+}
 
+.item{
+    width: 100%;
+    min-height: 5rem;
+    
+}
+
+.row{
+    display:flex;
+    flex-direction: row-reverse;
+}
+.red {
+    background-color: #993737;
+  }
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: teal;
 }
